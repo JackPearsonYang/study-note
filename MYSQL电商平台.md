@@ -4,7 +4,7 @@
 
 
 
-![1562730982420](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562730982420.png)
+![1562730982420](images\1562730982420.png)
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-![1562731515056](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562731515056.png)
+![1562731515056](images\1562731515056.png)
 
 
 
@@ -164,7 +164,7 @@
 
 
 
-![1562813619833](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562813619833.png)
+![1562813619833](images\1562813619833.png)
 
 
 
@@ -188,7 +188,7 @@
 
 
 
-![1562814124544](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562814124544.png)
+![1562814124544](images\1562814124544.png)
 
 
 
@@ -216,13 +216,13 @@ SELECT name,phone from customer where id='111'
 
 - 下例减少表的变更对已有数据的影响
 
-![1562814744437](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562814744437.png)
+![1562814744437](images\1562814744437.png)
 
 
 
 
 
-![1562814819546](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562814819546.png)
+![1562814819546](images\1562814819546.png)
 
 
 
@@ -232,7 +232,7 @@ SELECT name,phone from customer where id='111'
 
 
 
-![1562816115556](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562816115556.png)
+![1562816115556](images\1562816115556.png)
 
 
 
@@ -240,7 +240,7 @@ SELECT name,phone from customer where id='111'
 
 - 如：合并多种类型的订单数据，由于订单属于不同类型，不会出现重复，故使用UNION ALL
 
-![1562816150492](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562816150492.png)
+![1562816150492](images\1562816150492.png)
 
 
 
@@ -262,7 +262,7 @@ SELECT name,phone from customer where id='111'
 
   
 
-![1562816421393](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562816421393.png)
+![1562816421393](images\1562816421393.png)
 
 
 
@@ -292,11 +292,11 @@ SELECT name,phone from customer where id='111'
 
 # 
 
-![1562835355420](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562835355420.png)
+![1562835355420](images\1562835355420.png)
 
 
 
-![1562835461289](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562835461289.png)
+![1562835461289](images\1562835461289.png)
 
 
 
@@ -306,7 +306,7 @@ SELECT name,phone from customer where id='111'
 
 
 
-![1562835570766](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562835570766.png)
+![1562835570766](images\1562835570766.png)
 
 
 
@@ -324,7 +324,7 @@ SELECT name,phone from customer where id='111'
 
 
 
-![1562835691995](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562835691995.png)
+![1562835691995](images\1562835691995.png)
 
 
 
@@ -342,13 +342,13 @@ SELECT name,phone from customer where id='111'
 
 
 
-![1562835881060](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562835881060.png)
+![1562835881060](images\1562835881060.png)
 
 
 
 
 
-![1562835976558](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562835976558.png)
+![1562835976558](images\1562835976558.png)
 
 
 
@@ -512,7 +512,7 @@ SHOW PLUGINS;
 
 
 
-![1562908143678](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562908143678.png)
+![1562908143678](images\1562908143678.png)
 
 
 
@@ -734,7 +734,7 @@ ALTER TABLE arch_customer_login_log ENGINE=ARCHIVE
 
 
 
-![1562922098627](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1562922098627.png)
+![1562922098627](images\1562922098627.png)
 
 
 
@@ -846,23 +846,23 @@ SELECT customer_id,title,content
 
 
 
-![1563005175627](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563005175627.png)
+![1563005175627](images\1563005175627.png)
 
 
 
 
 
-![1563007367585](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563007367585.png)
+![1563007367585](images\1563007367585.png)
 
 
 
-![1563007513445](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563007513445.png)
+![1563007513445](images\1563007513445.png)
 
 
 
 
 
-![1563007603672](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563007603672.png)
+![1563007603672](images\1563007603672.png)
 
 
 
@@ -874,7 +874,7 @@ SELECT customer_id,title,content
 
 
 
-![1563008074952](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563008074952.png)
+![1563008074952](images\1563008074952.png)
 
 
 
@@ -892,11 +892,11 @@ SELECT customer_id,title,content
 
 
 
-![1563008309584](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563008309584.png)
+![1563008309584](images\1563008309584.png)
 
 
 
-![1563008342300](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563008342300.png)
+![1563008342300](images\1563008342300.png)
 
 
 
@@ -944,7 +944,7 @@ SELECT customer_id,title,content
 
 
 
-![1563008918090](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563008918090.png)
+![1563008918090](images\1563008918090.png)
 
 
 
@@ -1013,7 +1013,7 @@ create index idx_productID_auditStatus on product_comment(product_id,audit_statu
 
 
 
-![1563009912567](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563009912567.png)
+![1563009912567](images\1563009912567.png)
 
 
 
@@ -1151,7 +1151,7 @@ set global low_query_log=on;
 
 
 
-![1563261833878](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563261833878.png)
+![1563261833878](images\1563261833878.png)
 
 
 
@@ -1256,7 +1256,7 @@ mysqldump [OPTIONS] database [tables]
 
 
 
-![1563518079419](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563518079419.png)
+![1563518079419](images\1563518079419.png)
 
 
 
@@ -1320,7 +1320,7 @@ grep "CREATE TABLE" mc_orderdb.sql
 
 
 
-![1563518961312](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563518961312.png)
+![1563518961312](images\1563518961312.png)
 
 
 
@@ -1390,7 +1390,7 @@ mysqldump -ubackup -p --master-data=2 --single-transaction
 
 
 
-![1563519964821](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563519964821.png)
+![1563519964821](images\1563519964821.png)
 
 
 
